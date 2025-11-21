@@ -66,3 +66,5 @@ To get a local copy up and running, follow these simple steps.
 
 3. **Open the application:**
    Open [http://localhost:9002](http://localhost:9002) in your browser to see the result.
+
+© 2025 Aryan Yadav. All rights reserved. This project is shared for academic evaluation purposes only. Unauthorized copying, use, or modification of this code is strictly prohibited.
